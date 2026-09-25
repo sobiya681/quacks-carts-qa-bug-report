@@ -28,4 +28,4 @@ Low
 Low
 
 ## Screenshot
-![Bug 4 Screenshot](../screenshots/bug4-email-hover-cursor.png)
+![Bug 4 Screenshot](../screenshots/bug4-email-unclickable.jpg)
