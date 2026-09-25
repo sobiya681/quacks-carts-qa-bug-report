@@ -27,4 +27,4 @@ High
 High
 
 ## Screenshot
-![Bug 2 Screenshot](../screenshots/bug2-quacks-cart-link.png)
+![Bug 2 Screenshot](../screenshots/bug2-quacks-cart.jpg)
