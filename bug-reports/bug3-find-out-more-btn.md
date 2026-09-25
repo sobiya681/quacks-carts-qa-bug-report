@@ -28,4 +28,4 @@ Medium
 Medium
 
 ## Screenshot
-![Bug 3 Screenshot](../screenshots/bug3-find-out-more-wrong-url.png)
+![Bug 3 Screenshot](../screenshots/bug3-find-out-more.jpg)
