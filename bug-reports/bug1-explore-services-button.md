@@ -28,4 +28,4 @@ High
 High
 
 ## Screenshot
-![Bug 1 Screenshot](screenshots/bug1-explore.jpg)
+![Bug 1 Screenshot](../screenshots/bug1-explore.jpg)
